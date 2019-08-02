@@ -1,0 +1,8 @@
+[x]test
+[x]don't merge differents holders in AggregationStatusPerdodUtils.java
+[x]aggreg status period => finish tests
+[x]update methods to test
+[x]MR the merge algo
+[x]aggreg status period line 1169 fix test
+[]fix MR permissions
+[]fix existing test by adding establishment 
