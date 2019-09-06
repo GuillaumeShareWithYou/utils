@@ -1,8 +1,30 @@
-[x]test
-[x]don't merge differents holders in AggregationStatusPerdodUtils.java
-[x]aggreg status period => finish tests
-[x]update methods to test
-[x]MR the merge algo
-[x]aggreg status period line 1169 fix test
-[]fix MR permissions
-[]fix existing test by adding establishment 
+[x]test token function on date in data-warehouse
+[x]check if json content is sent to the public-api
+[x]solve data-warehouse problem
+[x]write some integration tests for NP ems data
+[x]portal send localdate to get commands
+[x]data ems front copy maquette
+[x]public api method requestresponse get json content => call data-warehouse
+[x]front: use isNewProtocol to call the good export fct
+[x]put the fileName in tooltip
+[x]defaults dates appplied in ems data
+[x]change ems toast
+[x]selection dates vides par d‚faut
+[x]sync check only in inforamtion tab, not data tab
+[x]champ obligatoire sous dates
+[x]pouvoir cliquer sur le bouton donwload meme sans les dates
+[x]data integration MR data-reference also get deleted out of circulation
+[x]TractionUnitResourceIntTest.rentTractionUnitWithNoEmsShouldSuccess:1494 Status expected:<200> but was:<500>
+[x]habilitations sur modification ems communication
+[x]champs required block the form
+[x]mark all as touched
+[x]remove rte right to modify ems
+[x]modify login
+[x]titre ems modal = 18px … mettre en rem
+[x]tractionunitservice:340 -> preauthorize
+[x]tester si minio accepte les sous buckets
+[x]tester le t‚l‚chargement de fichier par bucketName et objectName (+sous buckets ?)
+[x]create changeCommunicationConfigDto
+[]public api get changeCommunicationConfig
+[x]add get "request-response-result/{messageId}/{emsGuid}" into requestResponseClient
+[]do mapper
