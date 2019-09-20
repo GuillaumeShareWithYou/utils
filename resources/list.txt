@@ -25,6 +25,10 @@
 [x]tester si minio accepte les sous buckets
 [x]tester le t‚l‚chargement de fichier par bucketName et objectName (+sous buckets ?)
 [x]create changeCommunicationConfigDto
-[]public api get changeCommunicationConfig
+[x]public api get changeCommunicationConfig
 [x]add get "request-response-result/{messageId}/{emsGuid}" into requestResponseClient
-[]do mapper
+[x]do mapper
+[x]add 3 fields to change mapper
+[x]add json ignore to field in change of shared model
+[]command-hour-only merge if accepted
+[]try to send a change communication config
